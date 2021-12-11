@@ -1,0 +1,1 @@
+docker build -t be_project . && docker-compose up -d

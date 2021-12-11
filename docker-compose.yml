@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+    server:
+        image: be_project:latest
+        restart: unless-stopped
+        # network_mode: 'host'
+        volumes:
+            - .env:/be_project/.env
+        ports:
+            - 3002:3000
