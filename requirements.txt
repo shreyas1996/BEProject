@@ -1,0 +1,17 @@
+# numpy
+scipy
+# protobuf
+# wheel
+# tensorboard
+matplotlib
+flask
+# grpcio==1.37.0
+# tensorflow==1.15
+tensorflow==2.6
+# tensorflow-gpu
+# keras==2.2.4
+# keras-nightly==2.6.0.dev2021051400
+pydot
+graphviz
+pandas
+pillow
